@@ -1,0 +1,3 @@
+module AnDImplementations {
+	requires junit;
+}
